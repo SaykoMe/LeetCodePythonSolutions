@@ -229,3 +229,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Valid Parentheses](Python/valid_parentheses.py)
 - [Remove Element](Python/remove_element.py)
 - [Remove Duplicates from Sorted Array](Python/remove_duplicates_from_sorted_array.py)
+- [Faulty Keyboard](Python/faulty_keyboard.py)
